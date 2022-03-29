@@ -1,0 +1,6 @@
+db.sqlite3
+.ipynb_checkpoints
+__pycache__
+*.pyc
+notes*.txt
+media/*
